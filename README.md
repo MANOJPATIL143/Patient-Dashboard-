@@ -44,7 +44,7 @@ Make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-1. git clone https://github.com/MANOJPATIL143/Patient-Dashboard.git
+1. https://github.com/MANOJPATIL143/Patient-Dashboard-.git
 cd Patient-Dashboard
 ```
 
