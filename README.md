@@ -9,8 +9,4 @@ Coming soon...
 ---
 
 ## 📁 Project Structure
-mern-app/
-├── client/ # React frontend 
-├── server/ # Express backend
-├── README.md # Project documentation
-└── .env # Environment variables
+mern-app/ ├── client/ # React frontend ├── server/ # Express backend ├── README.md # Project documentation └── .env # Environment variables
