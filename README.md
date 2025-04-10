@@ -49,7 +49,6 @@ cd Patient-Dashboard
 ```
 
 ### 1. Backend Setup (node + express)
-```bash
 1. Backend Setup (Express + MongoDB)
 ```bash
 cd server
